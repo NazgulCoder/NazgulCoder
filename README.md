@@ -3,6 +3,7 @@ If you want to collaborate with me feel free to open a pull request 😊
 
 My most interesting projects:
 - <a href="https://github.com/NazgulCoder/Mikrotik-IP-Firewall" target="_blank">Mikrotik IP Firewall</a> Rules DAILY UPDATED!
+- <a href="https://github.com/NazgulCoder/IPLists" target="_blank">IPLists</a> Daily Updated VPN IP Lists (IPv4 & IPv6)
 - <a href="https://github.com/NazgulCoder/Mass-Mikrotik-Executor" target="_blank">Mass Mikrotik Executor</a> a script to execute commands on multiple mikrotiks at once [REMOVED]
 - <a href="https://github.com/NazgulCoder/RADIUS-Server-Checker" target="_blank">RADIUS Server Checker</a> to test your configuration
 - <a href="https://github.com/NazgulCoder/NazgulMonitor" target="_blank">NazgulMonitor</a> Tool to monitor all your hardware components

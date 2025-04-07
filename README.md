@@ -13,7 +13,7 @@ My most interesting projects:
 - <a href="https://github.com/NazgulCoder/Nazgul-IP-Camera-Toolset" target="_blank">Nazgul IP Camera Toolset</a> for almost all Cameras available on internet
 - <a href="https://github.com/NazgulCoder/AHKTranslate" target="_blank">AHKTranslate</a> simple AHK script to translate your selection and set it to your clipboard
 - <a href="https://github.com/NazgulCoder/PASG/" target="_blank">PASG</a> PHP Advanced Sitemap Generator
-
+- <a href="https://github.com/NazgulCoder/javascript-obfuscator-webui" target="_blank">JavaScript Obfuscator Web UI</a> A 100% offline web interface for JavaScript code obfuscation using javascript-obfuscator
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazgulCoder&theme=tokyonight)
